@@ -1,0 +1,6 @@
+requests==2.31.0
+validators==0.20.0
+colorama==0.4.6
+pyfiglet==0.8.post1
+ecdsa==0.18.0
+tqdm==4.66.1
